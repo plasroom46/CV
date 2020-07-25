@@ -100,3 +100,10 @@ h3 {
 h4 {
   border-bottom: 3px solid lightgrey;
 }
+
+#QRCode{
+  position: absolute;
+  left: 350px;
+  top: 70px;
+  width: 135px;
+}
