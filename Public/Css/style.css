@@ -8,6 +8,11 @@ body,
   background-image: linear-gradient(120deg, rgb(21, 87, 153), rgb(21, 153, 87));
 }
 
+body
+{
+  font-family:'Times New Roman', Times, serif;
+}
+
 .grid-container {
   display: grid;
   grid-template-columns: 1fr;
@@ -107,6 +112,6 @@ h4 {
 #QRCode{
   position: absolute;
   left: 350px;
-  top: 70px;
+  top: 120px;
   width: 135px;
 }
