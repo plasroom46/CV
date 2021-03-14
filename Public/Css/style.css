@@ -84,12 +84,8 @@ body
   grid-area: 4 / 2 / 5 / 3;
 }
 
-.os {
-  grid-area: 4 / 3 / 5 / 4;
-}
-
 .others {
-  grid-area: 4 / 4 / 5 / 5;
+  grid-area: 4 / 3 / 5 / 4;
 }
 
 .education {
