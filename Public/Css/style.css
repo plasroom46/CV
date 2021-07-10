@@ -27,15 +27,12 @@ body
 .experience {
   grid-area: 2 / 1 / 3 / 2;
 }
-.projectCode{
-  grid-area: 3 / 1 / 4 / 2;
-}
 
 .skill {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   grid-template-rows: 0.2fr 1fr 1fr 1fr;
-  grid-area: 4 / 1 / 5 / 2;
+  grid-area: 3 / 1 / 4 / 2;
   background-image: linear-gradient(to top, rgb(52, 55, 58), rgb(31, 33, 35));
   background-color: initial;
 }
@@ -86,6 +83,10 @@ body
 
 .others {
   grid-area: 4 / 3 / 5 / 4;
+}
+
+.projectCode{
+  grid-area: 4 / 1 / 5 / 2;
 }
 
 .education {
